@@ -1,6 +1,6 @@
 {
 "companyName": "DefaultCompany",
-"productName": "tuto",
+"productName": "bolt",
 "productVersion": "0.1",
 "dataUrl": "unity-test.data.unityweb",
 "wasmCodeUrl": "unity-test.wasm.code.unityweb",
